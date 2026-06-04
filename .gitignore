@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+output.mid
+generated_music.mid
+.env
